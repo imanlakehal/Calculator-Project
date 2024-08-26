@@ -1,4 +1,4 @@
-# Simple Calculator Project*
+# Simple Calculator Project
 
 **The calculator app** is a simple calculator that can perform operations such as addition, subtraction, multiplication and division.
 
